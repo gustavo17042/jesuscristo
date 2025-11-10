@@ -20,8 +20,8 @@ Parar o sistema:
 
 Ver logs:
 bash
-git clone https://github.com/gustavo17042/jesuscristo.git
-cd jesuscristo
+git clone https://github.com/gustavo17042/Projeto-Integrador-2-semestre.git
+cd Projeto-Integrador-2-semestre
 
 bash
 docker-compose up -d
